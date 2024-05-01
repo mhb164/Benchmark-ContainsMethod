@@ -5,6 +5,17 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastestContainsMethod", "FastestContainsMethod\FastestContainsMethod.csproj", "{CA9848FE-7461-4527-AD7E-EA8F7FB71ECE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7D7399C3-4E53-48A0-BC7B-AD4E631FD152}"
+	ProjectSection(SolutionItems) = preProject
+		Presentation\BenchmarkCode.png = Presentation\BenchmarkCode.png
+		Presentation\BenchmarkInitial.png = Presentation\BenchmarkInitial.png
+		Presentation\BenchmarkResult.md = Presentation\BenchmarkResult.md
+		Presentation\BenchmarkResult_carbon.png = Presentation\BenchmarkResult_carbon.png
+		Presentation\BenchmarkResult_cli.png = Presentation\BenchmarkResult_cli.png
+		Presentation\FastestContainsMethod.docx = Presentation\FastestContainsMethod.docx
+		Presentation\FastestContainsMethod.pdf = Presentation\FastestContainsMethod.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
